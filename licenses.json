@@ -1,14 +1,16 @@
 {
   "version": "1.0",
   "issued_at": "2026-04-18",
+  "issuer": "Prototype Technology",
   "licenses": [
     {
       "bank_name": "IS Bank Bank",
       "license_id": "SENTRA-2026-001",
+      "allowed_hostnames": ["ZeroTrust"],
       "issued_date": "2026-01-01",
       "expires": "2027-01-01",
       "active": true,
-      "contact": "admin@isbank.com"
+      "contact": "support@prototype-tech.com"
     }
   ]
 }
