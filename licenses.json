@@ -1,20 +1,19 @@
-[
-  {
-    "license_id": "SENTRA-2026-001",
-    "bank_name": "IS Bank Bank",
-    "hostname": "ZeroTrust",
-    "combined_hash": "618ec26f1e432928b4ed00903ed5f16c762f83c27447453bc0e3d58fbf1b0d2f",
-    "expires": "2027-01-01",
-    "contact": "support@prototype-tech.com",
-    "created_at": "2026-04-18 16:51:45"
-  },
-  {
-    "license_id": "SENTRA-2026-002",
-    "bank_name": "asia bank",
-    "hostname": "server",
-    "combined_hash": "310f7edf9d8f2a142dab0d3bdaa241fb641454b545c5cea93f82a47d907e1fc5",
-    "expires": "2027-04-18",
-    "contact": "info@prototype-iq.com",
-    "created_at": "2026-04-18 17:35:28"
-  }
-]
+{
+  "version": "2.0",
+  "licenses": [
+    {
+      "license_id": "SENTRA-2026-001",
+      "combined_hash": "618ec26f1e432928b4ed00903ed5f16c762f83c27447453bc0e3d58fbf1b0d2f",
+      "expires": "2027-01-01",
+      "active": true
+    },
+    {
+      "license_id": "SENTRA-2026-002",
+      "combined_hash": "310f7edf9d8f2a142dab0d3bdaa241fb641454b545c5cea93f82a47d907e1fc5",
+      "expires": "2027-04-18",
+      "active": true
+    }
+  ],
+  "issued_at": "2026-04-18",
+  "issuer": "Prototype Technology"
+}
