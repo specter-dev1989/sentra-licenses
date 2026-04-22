@@ -30,6 +30,12 @@
       "combined_hash": "adb3a46c0366ef5f3206fee9fef3b2f811168b2a19e7090fe8b5f93684a6907d",
       "expires": "2026-09-30",
       "active": true
+    },
+    {
+      "license_id": "SENTRA-2026-006]",
+      "combined_hash": "3c7426badc6278dd4eaefeb00bde90013f0144254c1fc0687240ce801eca8033",
+      "expires": "2026-12-30",
+      "active": true
     }
   ],
   "issued_at": "2026-04-22",
