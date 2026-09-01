@@ -8,6 +8,12 @@
       "active": true
     },
     {
+      "license_id": "SENTRA-2026-002",
+      "combined_hash": "310f7edf9d8f2a142dab0d3bdaa241fb641454b545c5cea93f82a47d907e1fc5",
+      "expires": "2027-04-18",
+      "active": true
+    },
+    {
       "license_id": "SENTRA-2026-003",
       "combined_hash": "f99f186bc3ae88a6b95feaa314463a585c21bc70bdaa4267bb7249c09d9adb86",
       "expires": "2026-08-30",
@@ -45,8 +51,8 @@
     },
     {
       "license_id": "SENTRA-2026-009",
-      "combined_hash": "24726ad73795f93ba8109b400f83fea194147a3c948cddcd925f424d9d463c77",
-      "expires": "2027-05-30",
+      "combined_hash": "92d4ef7ba28103006caacee7da6c4ac6deac487ffcde44507c839c55f159b60b",
+      "expires": "2026-05-30",
       "active": true
     },
     {
@@ -74,36 +80,12 @@
       "active": true
     },
     {
-      "license_id": "SENTRA-2026-014",
-      "combined_hash": "7f69d9927cd06210cf46e2c9a8ea80f475a50b66daa0574dfa0488b9d8f48dd5",
-      "expires": "2027-07-15",
-      "active": true
-    },
-    {
-      "license_id": "SENTRA-2026-015",
-      "combined_hash": "072e9136b78337f17e75a65299188fd45b194b9a1d60341146f8b6198cc95043",
-      "expires": "2027-07-23",
-      "active": true
-    },
-    {
-      "license_id": "SENTRA-2026-017",
-      "combined_hash": "f584613b192fd9072098873ae07981b70e93441b9d1c977b9f01ccfb36276439",
-      "expires": "2027-08-03",
-      "active": true
-    },
-    {
       "license_id": "SENTRA-2026-001B",
       "combined_hash": "daff75bc562065d5dee8f4c76a6494ad2b0e1eaea2607f7d50088e9dbaa01e34",
       "expires": "2027-04-18",
       "active": true
-    },
-    {
-      "license_id": "SENTRA-2026-018",
-      "combined_hash": "6b207cb2ce9210fc175d858787f98c53e546ca89b7e731ee93cfe6d5145a17c6",
-      "expires": "2027-09-01",
-      "active": true
     }
   ],
-  "issued_at": "2026-09-01",
+  "issued_at": "2026-06-30",
   "issuer": "Prototype Technology"
 }
