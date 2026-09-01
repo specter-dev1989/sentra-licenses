@@ -96,8 +96,14 @@
       "combined_hash": "daff75bc562065d5dee8f4c76a6494ad2b0e1eaea2607f7d50088e9dbaa01e34",
       "expires": "2027-04-18",
       "active": true
+    },
+    {
+      "license_id": "SENTRA-2026-018",
+      "combined_hash": "6b207cb2ce9210fc175d858787f98c53e546ca89b7e731ee93cfe6d5145a17c6",
+      "expires": "2027-09-01",
+      "active": true
     }
   ],
-  "issued_at": "2026-07-15",
+  "issued_at": "2026-09-01",
   "issuer": "Prototype Technology"
 }
