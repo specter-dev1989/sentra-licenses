@@ -70,8 +70,8 @@
     {
       "license_id": "SENTRA-2026-013",
       "combined_hash": "31ad5069a08e85479a772b645714c530a8fe3d2a78be7f83e568cb35dded6f2d",
-      "expires": "2026-10-30",
-      "active": false
+      "expires": "2027-10-30",
+      "active": true
     },
     {
       "license_id": "SENTRA-2026-014",
